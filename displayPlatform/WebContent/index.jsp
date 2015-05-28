@@ -27,7 +27,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body> 
-  	this is s test.
+  	this is a test.
   	<form action="/displayPlatform/test.do" id="data_form" method="post">
     	<input type="button" value="test" onclick="test();"/>
     </form>
